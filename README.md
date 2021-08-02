@@ -34,3 +34,10 @@ https://user-images.githubusercontent.com/53618928/127709992-b46e4b98-b087-4f43-
 
 https://user-images.githubusercontent.com/53618928/127710386-e7950eda-dde7-44f7-8036-42f3644117cd.mp4
 
+
+* When the video was compressed in order to upload it to Github, some UI details where lost such as the input color in ios. Here's a screenshot of than screen:
+
+<img width="375" alt="Screen Shot 2021-07-30 at 17 06 37" src="https://user-images.githubusercontent.com/53618928/127860124-c54a5bbc-8547-4a62-882b-297c093ad4e3.png">
+
+
+
